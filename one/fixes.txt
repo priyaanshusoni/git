@@ -5,3 +5,5 @@ fix again
 
 
 add another marketing section 
+
+add footer note 
